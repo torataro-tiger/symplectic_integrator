@@ -13,10 +13,10 @@ python .\main.py
 
 ## 実行結果例
 時間ごとの位置の変化（赤：解析解、青：オイラー法、緑：シンプレクティック数値積分法）<br/>
-![](./images/Figure_1.png)
+![](./images/Figure_1.png)<br/>
 時間ごとの運動量の変化（赤：解析解、青：オイラー法、緑：シンプレクティック数値積分法）<br/>
-![](./images/Figure_2.png)
+![](./images/Figure_2.png)<br/>
 時間ごとのエネルギーの変化（赤：解析解、青：オイラー法、緑：シンプレクティック数値積分法）<br/>
-![](./images/Figure_3.png)
+![](./images/Figure_3.png)<br/>
 相空間での軌跡（赤：解析解、青：オイラー法、緑：シンプレクティック数値積分法）<br/>
 ![](./images/Figure_4.png)
